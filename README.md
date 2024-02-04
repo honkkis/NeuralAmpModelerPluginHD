@@ -1,7 +1,16 @@
 # Neural Amp Modeler Plug-in with added HD antialias filter
 
-Either compile as instructed below or download the release which contains the AU and VST versions. AU can be unzipped and placed to ~/Library/Audio/Plug-Ins/Components and VST can be unzipped and placed to ~/Library/Audio/Plug-Ins/VST
+Either compile as instructed below.
 
+If you have a Mac OS device, you can also download the release which contains the AU and VST versions. NOTE: these are built using dev keys, so might not open for you. AU can be unzipped and placed to ~/Library/Audio/Plug-Ins/Components and VST can be unzipped and placed to ~/Library/Audio/Plug-Ins/VST.
+
+```
+MacOS % file NeuralAmpModeler 
+NeuralAmpModeler: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit bundle x86_64
+- Mach-O 64-bit bundle x86_64] [arm64]
+NeuralAmpModeler (for architecture x86_64):	Mach-O 64-bit bundle x86_64
+NeuralAmpModeler (for architecture arm64):	Mach-O 64-bit bundle arm64
+```
 
 A VST3/AudioUnit plug-in\* for [Neural Amp Modeler](https://github.com/sdatkinson/neural-amp-modeler), built with [iPlug2](https://iplug2.github.io).
 
