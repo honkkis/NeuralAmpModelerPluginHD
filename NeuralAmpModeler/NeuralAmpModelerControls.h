@@ -548,7 +548,7 @@ public:
     const auto style = mStyle.WithDrawFrame(false).WithValueText(text);
 
 
-    AddChildControl(new IVLabelControl(IRECT(), "By Steven Atkinson (lowpassresampler v2)", style));
+    AddChildControl(new IVLabelControl(IRECT(), "By Steven Atkinson (lowpassresampler 24db/oct par v5)", style));
     AddChildControl(new IVLabelControl(IRECT(), buildInfoStr.Get(), style));
     AddChildControl(new IURLControl(IRECT(), "Plug-in development: Steve Atkinson, Oli Larkin, ... ",
                                     "https://github.com/sdatkinson/NeuralAmpModelerPlugin/graphs/contributors", text,
