@@ -19,7 +19,7 @@ A VST3/AudioUnit plug-in\* for [Neural Amp Modeler](https://github.com/sdatkinso
 
 ## Installation
 
-Check the [Releases](https://github.com/sdatkinson/NeuralAmpModelerPlugin/releases) for pre-built installers for the plugin!
+Check the [Releases](https://github.com/honkkis/NeuralAmpModelerPluginHD/releases) for pre-built installers for the plugin!
 
 ## Supported Platforms
 
